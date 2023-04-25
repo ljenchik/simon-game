@@ -13,3 +13,5 @@ Keep track of your score as you compete against friends or attempt to surpass yo
 ## Technologies 
 
 JavaScript, jQuery
+
+<img src="https://user-images.githubusercontent.com/84686704/234291823-b73076bb-f844-42ed-bbdf-e51f85c8331b.png" width="200px" />
